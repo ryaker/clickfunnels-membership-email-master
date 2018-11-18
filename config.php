@@ -18,7 +18,7 @@ $email_from_name     = "Jennifer Gaynor-Yaker";
 
 $email_from_email    = "jen@joytopiacoaching.com";
 
-$email_subject       = "The Ultimate \"Attract Love\" Black Friday Bundle";
+$email_subject       = "The Ultimate Attract Love Black Friday Bundle";
 
 $email_smtp_host     = "smtp.email.com";
 
