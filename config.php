@@ -26,7 +26,7 @@ $email_smtp_port     = 25;
 
 $email_smtp_username = "postmaster@mg.dateforyoursoulmate.com";
 
-$email_smtp_password = "6887d5f978f7cd00b0abea0398b92035";
+$email_smtp_password = "<PASSWORD>";
 
 
 /**
